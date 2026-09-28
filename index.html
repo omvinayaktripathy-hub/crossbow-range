@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Crossbow Range</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<canvas id="game"></canvas>
+
+<div id="ui">
+  <div id="panel">
+    <h1 id="title">CROSSBOW RANGE</h1>
+    <p id="sub">Hold to draw &middot; Release to loose</p>
+
+    <div id="stats"></div>
+
+    <div id="nameRow" hidden>
+      <input id="nameInput" type="text" maxlength="16" placeholder="Your name"
+             autocomplete="off" spellcheck="false">
+    </div>
+
+    <button id="btn">START</button>
+
+    <div id="leaderboard">
+      <h2>Top Shooters</h2>
+      <ol id="lbList"></ol>
+    </div>
+  </div>
+</div>
+
+<script src="/game.js"></script>
+</body>
+</html>

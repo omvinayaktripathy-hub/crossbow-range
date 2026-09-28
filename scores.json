@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sample001",
+    "name": "Robin",
+    "score": 412,
+    "accuracy": 78,
+    "bestCombo": 6,
+    "shots": 23,
+    "hits": 18,
+    "at": "2026-09-29T10:15:00.000Z"
+  },
+  {
+    "id": "mulncomdnqhvpu",
+    "name": "CYREX",
+    "score": 407,
+    "accuracy": 45,
+    "bestCombo": 3,
+    "shots": 42,
+    "hits": 19,
+    "at": "2026-09-28T19:34:52.837Z"
+  },
+  {
+    "id": "sample002",
+    "name": "Hawk",
+    "score": 356,
+    "accuracy": 71,
+    "bestCombo": 5,
+    "shots": 21,
+    "hits": 15,
+    "at": "2026-09-29T10:20:00.000Z"
+  },
+  {
+    "id": "sample003",
+    "name": "Bowman",
+    "score": 289,
+    "accuracy": 65,
+    "bestCombo": 4,
+    "shots": 20,
+    "hits": 13,
+    "at": "2026-09-29T10:25:00.000Z"
+  }
+]
